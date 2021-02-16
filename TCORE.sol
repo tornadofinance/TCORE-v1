@@ -13,7 +13,7 @@ pragma solidity 0.6.12;
 //
 // TCORE v1 smart contract
 // https://tornado.finance
-// https://t.me/tornadofinance
+// https://t.me/tornadofinance2
 //
 //-._    _.--'"`'--._    _.--'"`'--._    _.--'"`'--._    _   
 //    '-:`.'|`|"':-.  '-:`.'|`|"':-.  '-:`.'|`|"':-.  '.` : '.   
